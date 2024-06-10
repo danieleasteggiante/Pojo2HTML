@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/HTMLContent.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/SchedaTelematicaMassimario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/annotations/HTMLTag.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/engine/HTMLGenerator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/engine/HTMLInjector.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/engine/StringBuilderUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/src/main/java/it/netservice/engine/Tag.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
