@@ -1,5 +1,7 @@
-This is a simple library that turns an Pojo into HTML.
-For use it remember that the order matters.
+# Pojo2HTML
+
+## This is a simple library that turns an Pojo into HTML.
+### For use it remember that the order matters.
 
 Every field must be annotated with HTMLTag annotation that is provided by the library.
 In that we need to specify some infos:
@@ -18,8 +20,8 @@ As best practice is useful to return the className:
         return this.getClass().getSimpleName();
     }
 
-This is an Example:
-
+### This is an Example:
+```
 public class PageHTML implements IHTMLContent {
     @HTMLTag(name = "title", area = "head")
     String title = "Title in head"; //default are useful
@@ -47,3 +49,4 @@ public class PageHTML implements IHTMLContent {
         return this.getClass().getSimpleName();
     }
 }
+```
